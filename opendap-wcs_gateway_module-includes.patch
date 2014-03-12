@@ -1,0 +1,10 @@
+--- wcs_gateway_module-1.1.0/WCSGatewayUtils.cc.orig	2010-01-11 04:23:18.000000000 +0100
++++ wcs_gateway_module-1.1.0/WCSGatewayUtils.cc	2014-03-11 20:16:45.940548351 +0100
+@@ -32,6 +32,7 @@
+ 
+ #include "config.h"
+ 
++#include <string.h>
+ #ifdef HAVE_UNISTD_H
+ #include <unistd.h>
+ #endif
