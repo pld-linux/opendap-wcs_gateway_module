@@ -6,7 +6,7 @@ Summary:	WCS Request module for the OPeNDAP data server
 Summary(pl.UTF-8):	Moduł żądań WCS dla serwera danych OPeNDAP
 Name:		opendap-wcs_gateway_module
 Version:	1.1.0
-Release:	3
+Release:	4
 License:	LGPL v2.1+
 Group:		Daemons
 Source0:	http://www.opendap.org/pub/source/wcs_gateway_module-%{version}.tar.gz
